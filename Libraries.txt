@@ -1,0 +1,46 @@
+1) pandas: 
+	pip install pandas
+
+		OR 
+
+	py -3 -m pip install pandas
+
+2) matplotlib: 
+	pip install matplotlib
+
+		OR 
+
+	py -3 -m pip install matplotlib
+
+3) numpy: 
+	pip install numpy
+
+		OR 
+
+	py -3 -m pip install numpy
+5) sklearn: 
+	pip install sklearn
+
+		OR 
+
+	py -3 -m pip install sklearn
+
+5) pandas_profiling: 
+	pip install pandas_profiling
+
+		OR 
+
+	py -3 -m pip install pandas_profiling
+
+6) lightgbm: 
+	pip install lightgbm
+
+		OR 
+
+	py -3 -m pip install lightgbm
+7) seaborn: 
+	pip install seaborn
+
+		OR 
+
+	py -3 -m pip install seaborn
